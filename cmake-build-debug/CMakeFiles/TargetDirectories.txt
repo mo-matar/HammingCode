@@ -1,0 +1,3 @@
+C:/Users/Hp/CLionProjects/HammingCode/cmake-build-debug/CMakeFiles/HammingCode.dir
+C:/Users/Hp/CLionProjects/HammingCode/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hp/CLionProjects/HammingCode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
